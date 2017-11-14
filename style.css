@@ -4,3 +4,8 @@
  Description:  This is the first theme created by Jonny a child theme of WordPress' Twenty Sixteen theme
  Template:     twentysixteen
 */
+
+
+.home .entry-content {
+	color: red;
+	}
